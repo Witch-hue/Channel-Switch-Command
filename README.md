@@ -1,9 +1,9 @@
-Patch 88.5+ Opcode(NA): C_SELECT_CHANNEL 40096
+Patch 363034 (NA v90.2) Opcode(NA): C_SELECT_CHANNEL 63359
 
 
 made by Snug, screwed up and somehow made work by Tsunpot - Upkeep by Witch
 
-# Channel Switch Command 
+# Channel Switch Command
 (Really creative name kappa)
 
 Easily change channels via command
